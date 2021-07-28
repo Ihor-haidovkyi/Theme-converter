@@ -4,9 +4,15 @@
       "type": "product-template",
       "settings": {
       }
+    },
+    "recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "recommendations"
   ]
 }
